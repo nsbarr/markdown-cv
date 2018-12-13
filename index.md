@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: nick barr
 ---
-# Isaac Newton
+# about me
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
