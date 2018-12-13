@@ -2,18 +2,19 @@
 layout: cv
 title: nick barr
 ---
-# about me
+# nick barr
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="nsbarr@gmail.com">nsbarr@gmail.com</a>
+| <a href="http://nsbarr.com">Homepage</a>
 </div>
 
+## Summary
 
-## Currently
+I am a product leader with 10+ years of experience helping teams bring important ideas into the world. Currently, I work at Khan Academy, where my team researches and develops forward-looking educational tools. I’ve held senior product roles at a number of startups (Ning, Betaworks, Canvas Networks), mentored companies and aspiring entrepreneurs (Techstars, Orbital), and collaborated with many wonderful and brilliant people along the way.
 
-Standing on the shoulders of giants
+My areas of focus include the power of networks, learning, poetics, and creative expression. 
 
 ### Specialized in
 
