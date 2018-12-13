@@ -3,7 +3,7 @@ layout: cv
 title: nick barr
 ---
 # nick barr
-Physicist, Mathematician, Cambridge professor.
+I am a product leader with 10+ years of experience helping teams bring important ideas into the world. Currently, I work at Khan Academy, where my team researches and develops forward-looking educational tools. I’ve held senior product roles at a number of startups (Ning, Betaworks, Canvas Networks), mentored companies and aspiring entrepreneurs (Techstars, Orbital), and collaborated with many wonderful and brilliant people along the way.
 
 <div id="webaddress">
 <a href="nsbarr@gmail.com">nsbarr@gmail.com</a>
@@ -11,8 +11,6 @@ Physicist, Mathematician, Cambridge professor.
 </div>
 
 ## Summary
-
-I am a product leader with 10+ years of experience helping teams bring important ideas into the world. Currently, I work at Khan Academy, where my team researches and develops forward-looking educational tools. I’ve held senior product roles at a number of startups (Ning, Betaworks, Canvas Networks), mentored companies and aspiring entrepreneurs (Techstars, Orbital), and collaborated with many wonderful and brilliant people along the way.
 
 My areas of focus include the power of networks, learning, poetics, and creative expression. 
 
